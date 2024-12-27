@@ -1,11 +1,5 @@
-# Analysis 
+# Introduction
 
-This section includes examples of technical analysis done using Jupyter notebooks.
-Each sub-section highlights different types of analyses and visualizations.
-In particular, it highlights that we can easily publish interactive visualizations
-produced with packages such as hvPlot, altair, or Folium, without losing
-any of the interactive features. 
+In the 2024 presidential election, Philadelphia was expected to be a crucial battleground for votes in Pennsylvania, and thus potentially to be pivotal for the outcome of the race as a whole. However, the number of votes cast in Philadelphia declined from the last presidential election in 2020, from 749,317 in the earlier year to 727,595. The turnout rate, which is the ratio of votes cast to registered voters, was also lower in 2024 (65.10%) compared to 2020 (66.35%).
 
-On this page, you might want to share more introductory or background information about 
-the analyses to help guide the reader. 
-
+What explains the lower turnout? In this analysis, we look at how several different electoral and demographic factors may have influenced turnout changes between 2024 and 2020.

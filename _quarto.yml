@@ -24,6 +24,7 @@ website:
       - section: analysis/index.qmd
         contents:
           - analysis/2_exploratory_analysis.ipynb
+          - analysis/3_clustering_analysis.ipynb
 
 format:
   html:
